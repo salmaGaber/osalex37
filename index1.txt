@@ -1,7 +1,9 @@
+This is a Git Training Course!
 hello form the other side
 welcome from Mars
 nice try!
 Hello My peopless
 conflict is here!!!
 that is a conflict
-commiting from pycharm
+commits from pycharm
+Hope u enjoy it
